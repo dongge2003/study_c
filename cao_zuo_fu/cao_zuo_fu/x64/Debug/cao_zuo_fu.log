@@ -1,0 +1,3 @@
+﻿  cao_zuo_fu.c
+D:\CODE\c\cao_zuo_fu\cao_zuo_fu.c(438,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  cao_zuo_fu.vcxproj -> D:\CODE\c\cao_zuo_fu\x64\Debug\cao_zuo_fu.exe
